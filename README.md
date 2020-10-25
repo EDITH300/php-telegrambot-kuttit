@@ -4,6 +4,8 @@
 
 *Contributions and bug reports are welcome.*
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Table of Contents
 * [Introduce Features](#introduce-features)
 * [Requirements](#requirements)
